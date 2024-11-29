@@ -52,6 +52,7 @@ header {
 .img-container {
     display: flex;
     max-width: 500px;
+    padding: 50px;
 }
 
 ul {
